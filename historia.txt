@@ -4,3 +4,5 @@ Pedro Blancas esta estufiando Git y GitHub
 con la finalidad de aprende Punto Net
 
 Hoy hablaremos de su historia
+
+Estoy realizando cambios en el archivo
